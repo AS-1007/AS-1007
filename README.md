@@ -5,7 +5,6 @@
 
 ## 💡 Connect with me:
 <p align="left"> 
-<a href="https://twitter.com/ENIGMAKUN1" target="blank"><img src="https://img.shields.io/twitter/url?label=ENIGMA%20KUN&style=social" alt="ENIGMAKUN1" /></a>&nbsp
 <a href="https://github.com/AS-1007" target="_blank"><img src="https://img.shields.io/github/followers/AS-1007?label=Github%20&style=social" alt="enigmakun.github.io" /></a>&nbsp
    <a href="mailto:srivastavanupam9473@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shubham007kog@gmail.com" />
