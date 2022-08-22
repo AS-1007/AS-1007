@@ -1,7 +1,7 @@
 [![MasterHead](https://desirerankings.com/wp-content/uploads/2020/06/process1.gif)]
 <h1 align="center">Hi 👋, I'm Anupam Srivastava</h1>
 <h3 align="center">A passionate frontend developer from Bangalore,India</h3>
-<img align="right" alt="Coding" width="400" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as-1007&label=Profile%20views&color=0e75b6&style=flat" alt="as-1007" /> </p>
