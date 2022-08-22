@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/www.techbii.com/wp-content/uploads/2018/09/web-developer-jpg-1.jpeg?fit=1378%2C783&ssl=1)]
+![MasterHead](https://i0.wp.com/www.techbii.com/wp-content/uploads/2018/09/web-developer-jpg-1.jpeg?fit=1378%2C783&ssl=1)
 <h1 align="center">Hi 👋, I'm Anupam Srivastava</h1>
 <h3 align="center">A passionate frontend developer from Bangalore,India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
