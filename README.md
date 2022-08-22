@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Cloud**
 
-- 👨‍💻 All of my projects are available at [www.crown-monkey.com](www.crown-monkey.com)
-
 - 💬 Ask me about **Development and Leadership**
 
 - 📫 How to reach me **srivastavanupam9473@gmail.com**
