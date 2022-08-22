@@ -1,6 +1,6 @@
 [![MasterHead](https://desirerankings.com/wp-content/uploads/2020/06/process1.gif)]
 <h1 align="center">Hi 👋, I'm Anupam Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangalore,India</h3>
 <img align="right" alt="Coding" width="400" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif")
 
 
